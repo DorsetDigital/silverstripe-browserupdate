@@ -1,9 +1,9 @@
 {
- "name": "dorsetdigital/silverstripe-cdnrewrite",
- "description": "Automatically rewrites the URLs of media and assets to use a CDN",
+ "name": "dorsetdigital/silverstripe-browserupdate",
+ "description": "Adds a browser update message to the front end",
  "type": "silverstripe-vendormodule",
- "homepage": "https://github.com/DorsetDigital/silverstripe-cdnrewrite",
- "keywords": ["silverstripe", "cdn"],
+ "homepage": "https://github.com/DorsetDigital/silverstripe-browserupdate",
+ "keywords": ["silverstripe"],
  "authors": [
   {
    "name": "Tim Burt",
@@ -17,7 +17,7 @@
  "license": "BSD-3-Clause",
  "autoload": {
   "psr-4": {
-   "DorsetDigital\\CDNRewrite\\": "src/"
+   "DorsetDigital\\BrowserUpdate\\": "src/"
   }
  },
  "extra": {
